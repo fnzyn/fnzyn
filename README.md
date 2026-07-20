@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vcenter=true&width=800&lines=Systems+%26+Low-Level+Software+Engineer;Linux+Kernel+%26+Cyber+Security+Specialist;Reverse+Engineering+%26+Penetration+Testing+Expert;Enterprise+AI+Automation+%26+n8n+Workflow+Architect;Polyglot+Developer+(Rust%2C+C%2B%2B%2C+Go%2C+Java%2C+Py%2C+C%23)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vcenter=true&width=750&lines=Software+%26+Systems+Engineer;Linux+%26+Cyber+Security+Researcher;Reverse+Engineering+%26+Automation" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <b>Polyglot Systems Engineer specializing in Low-Level Linux Architecture, Cyber Security, Penetration Testing, Binary Reverse Engineering, CTF Research, and Enterprise AI Workflow Automation.</b>
+  Software Engineer focused on Systems Programming, Low-Level Architecture, Cyber Security, Reverse Engineering, and Workflow Automation.
 </p>
 
 <div align="center">
@@ -20,34 +20,20 @@
 
 ---
 
-## Executive Overview
+## Technical Stack
 
-Senior Systems, Linux & Cyber Security Engineer with deep technical expertise spanning native systems programming, Linux kernel architecture, offensive/defensive security research, binary disassembly, and enterprise AI automation. Experienced in configuring custom Linux environments (Arch Linux, Kali Linux, WSL2), orchestrating frontier AI models (Claude Opus 4.6, Claude Fable 5, Gemini 3.5 Flash), engineering high-throughput asynchronous runtimes, conducting penetration testing, and building autonomous multi-agent AI workflows.
-
-### Primary Focus Areas
-- **Linux Systems & Low-Level Engineering**: Linux Kernel internals, POSIX API, system calls, eBPF, Arch Linux customization, WSL2 optimization, systemd service management, and high-performance native development using Rust, C/C++, Go, Assembly, and C#.
-- **Cyber Security & Penetration Testing**: Web application penetration testing, offensive security auditing, CTF vulnerability research, Kali Linux security tools (Metasploit, Burp Suite, Nmap, Wireshark, Hashcat, SQLmap), and network packet dissection.
-- **Reverse Engineering & Binary Security**: Binary disassembly with Ghidra/IDA Pro, userland and kernel debugging with GDB and x64dbg, native API memory hooking, and VMProtect analysis.
-- **Enterprise AI & Workflow Automation**: End-to-end event-driven workflow automation using n8n, custom AI decision nodes, frontier LLM orchestration (Claude Opus 4.6, Claude Fable 5, Gemini 3.5 Flash), and high-concurrency MTProto userbots.
-- **Full-Stack & Desktop Applications**: Asynchronous desktop application architecture using Tauri v2, React, Vite, Node.js, and containerized Docker environments.
-
----
-
-## Technical Arsenal & Skill Matrix
-
-### Operating Systems & Linux Ecosystem
+### Operating Systems & Environments
 <div>
-  <img src="https://img.shields.io/badge/Linux_Kernel-System_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch_Linux-Custom_Environment-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-Security_Suite-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL2-Windows_Subsystem_for_Linux-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-Server_%26_Desktop-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-OS-A80030?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine_Linux-Minimalist-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_%26_Zsh-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
-### Programming Languages
+### Languages
 <div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -57,87 +43,36 @@ Senior Systems, Linux & Cyber Security Engineer with deep technical expertise sp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-x86%2Fx64-00599C?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### AI Agent & Frontier LLM Orchestration
+### Security & Reverse Engineering
 <div>
-  <img src="https://img.shields.io/badge/Claude_Opus_4.6-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Fable_5-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_3.5_Flash-Google_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Pipelines-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MTProto-Telegram_Userbot_Engine-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF-FF0000?style=for-the-badge&logo=flag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-007ACC?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=rapid7&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
-### Cyber Security, Penetration Testing & CTF
+### AI & Automation
 <div>
-  <img src="https://img.shields.io/badge/Penetration_Testing-Ethical_Hacking-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security-Defense_%26_Offense-000000?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF_Player-Capture_The_Flag-FF0000?style=for-the-badge&logo=flag&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Security-OWASP_Top_10-025E8D?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-000000?style=for-the-badge&logo=rapid7&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-Web_Audit-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hashcat-Password_Cracking-000000?style=for-the-badge&logo=lock&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-Database_Assessment-111111?style=for-the-badge&logo=databricks&logoColor=white" />
-</div>
-
-### Reverse Engineering & Binary Security
-<div>
-  <img src="https://img.shields.io/badge/Ghidra-Binary_Analysis-FF6F00?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-Disassembly-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDB-GNU_Debugger-000000?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64dbg-Userland_Debugging-007ACC?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Binary_Patching-x86%2Fx64-111111?style=for-the-badge&logo=binary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory_Hooking-Native_API-0078D4?style=for-the-badge&logo=ram&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMProtect_Analysis-Unpacking-8E44AD?style=for-the-badge&logo=lock&logoColor=white" />
-</div>
-
-### Web, Full-Stack & Infrastructure
-<div>
-  <img src="https://img.shields.io/badge/Tauri_v2-Desktop_App_Framework-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Opus-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Flash-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri_v2-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ---
 
-## Featured Engineering & Security Projects
-
-```
-├── Cyber Security & Exploit Research Suite
-│   ├── Web Application Vulnerability Scanner & Penetration Testing Scripts
-│   ├── Custom CTF Challenge Solvers, Binary Dissection & Exploit Payload Generators
-│   └── Network Packet Dissector & Protocol Analyzer
-│
-├── Autonomous Multi-Agent AI Engine (Tauri v2 + Rust)
-│   ├── High-throughput MTProto Telegram client with dynamic Claude & Gemini model integration
-│   ├── Real-time memory persistence, live prompt editing & thread-safe RwLock RAM cache
-│   └── Zero-cooldown multi-key fallback & automated error recovery
-│
-├── Enterprise AI Workflow Automation (n8n Ecosystem)
-│   ├── Complex multi-branch n8n automation pipelines with custom AI decision nodes
-│   ├── Real-time webhook triggers, automated data processing & LLM orchestration
-│   └── High-reliability event-driven integration across cloud & local services
-│
-└── Systems & Binary Analysis Utilities
-    ├── Custom memory hooking, PE binary dissection & protocol analysis tools
-    └── High-performance native Rust utilities for low-level system interaction
-```
-
----
-
-## Performance Metrics
+## GitHub Stats
 
 <div align="center">
 
@@ -148,10 +83,4 @@ Senior Systems, Linux & Cyber Security Engineer with deep technical expertise sp
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnzyn&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&alarm=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="97%" />
 
-</div>
-
----
-
-<div align="center">
-  <sub>Architected by <b>Muhammad Rifan</b></sub>
 </div>
