@@ -33,7 +33,7 @@ Senior Systems, Linux & Cyber Security Engineer with deep technical expertise sp
 
 ---
 
-## Technical Arsenal & Skill Matrix
+## Skills Portofolio
 
 ### Operating Systems & Linux Ecosystem
 <div>
