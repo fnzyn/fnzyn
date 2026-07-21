@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <b>Polyglot Systems Engineer specializing in Low-Level Linux Architecture, Cyber Security, Penetration Testing, Binary Reverse Engineering, CTF Research, and Enterprise AI Workflow Automation.</b>
+  <b> Cyber Security, Penetration Testing, Binary Reverse Engineering, CTF Research, and Enterprise AI Workflow Automation.</b>
 </p>
 
 <div align="center">
@@ -108,25 +108,4 @@ Senior Systems, Linux & Cyber Security Engineer with deep technical expertise sp
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-## Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fnzyn&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnzyn&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fnzyn&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&alarm=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="97%" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>Architected by <b>Muhammad Rifan</b></sub>
 </div>
